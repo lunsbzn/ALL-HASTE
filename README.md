@@ -1,1 +1,1 @@
-# ALL-HASTE
+# AllHaste
